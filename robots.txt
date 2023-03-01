@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /imprint
+Disallow: /images
+
+User-Agent: Googlebot-Image
+Disallow: /
+
